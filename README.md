@@ -1,2 +1,6 @@
+Wittle Shop Project
 Wittle Shop (Pty) ltd, is a South African online retail company that sells electronics, clothing and home appliances directly to customers through a web and mobile platform. The company is growing fast and they want to build a new database system to manage their customers, products, orders, payments, deliveries and supplies. In this regard, they engaged my services to design their database structure.
-Given the Business requirements they submitted, I started by brainstorming ideas on the entities and their relationships in the database. I then utilized draw.io diagramming tool to create entity tables and indicate their relationship.
+Given the Business requirements they submitted, I started by brainstorming ideas on the entities and their relationships in the database. 
+Tools Used
+Microsoft Word- used for report writing
+Draw.io- used for creating system architecture and entity relations
